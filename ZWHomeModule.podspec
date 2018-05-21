@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ZWHomeModule'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of ZWHomeModule.'
+  s.version          = '0.1.2'
+  s.summary          = 'This is ZWHomeModule.'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
